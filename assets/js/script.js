@@ -12,6 +12,6 @@ const imWithLuck = document.querySelector("#btn-imWithLuck");
 
 imWithLuck.addEventListener("click", () => {
     //console.log("Estou com sorte");
-    location.href = "https://class.hcode.com.br";
+    location.href = "https://hcode.com.br";
 
 });
